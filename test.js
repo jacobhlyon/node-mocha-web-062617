@@ -1,4 +1,3 @@
-
 var expect = require('chai').expect
 var name = 'React Quickly'
 var url = ['http://reactquickly.co', 'https://www.manning.com/books/react-quickly']
